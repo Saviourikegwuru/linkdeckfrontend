@@ -1,0 +1,9 @@
+crypto_yativo.pem
+.vscode/sftp.json
+node_modules/
+test-unified-system.js
+logs/
+*.log
+.env.local
+dist/
+.env.local
